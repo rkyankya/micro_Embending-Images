@@ -1,4 +1,4 @@
-# micro_Embending-Images
+# micro_Embedding-Images
 EMBEDDING IMAGES AND VIDEO
 
 Microverse project
