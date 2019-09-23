@@ -123,11 +123,13 @@ nav .container {
 
 .video-info {
     margin-top: 15px;
+    margin-right: 150px:
 }
 
 .top-info {
     padding-bottom: 10px;
     border-bottom: 1px solid #ccc;
+    margin-right: 200px;
 }
 
 .info-main h2 {
@@ -207,6 +209,7 @@ nav .container {
     border: none;
     color: #f9f9f9;
     font-weight: 600;
+    margin-right: 200px;
     cursor: pointer;
 }
 
@@ -224,6 +227,10 @@ nav .container {
 .suggested-video-description .title {
     font-weight: 600;
     color: black;
+}
+
+.suggested {
+    margin-right: 90px;
 }
 
 
